@@ -1,0 +1,363 @@
+input {
+  font-size: 20px;
+  font-style: normal;
+  box-shadow: none;
+  border: none;
+}
+
+input:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+body,
+html {
+  height: 100vh;
+}
+
+.m-m a i {
+  border: 1px solid gray;
+  padding: 4px;
+  width: 40%;
+  text-align: center;
+  border-radius: 12px;
+}
+
+.m-m a {
+  list-style: none;
+  margin-top: 12px;
+  width: 100%;
+  color: white;
+  font-size: 23px;
+  padding-left: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-m a:hover {
+  color: wheat;
+}
+
+.m-m a:active {}
+
+.m-c-in .nav-item a {
+  font-size: 13px;
+}
+
+.m-c .nav-item a {
+  color: black !important;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 8px;
+  padding-right: 8px;
+  height: 4vh;
+  border-radius: 19px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.m-c .nav-item {
+  color: black !important;
+  border: 1px solid black;
+  margin-left: 5px;
+  border-radius: 19px;
+  padding: 0;
+  height: 4.5vh;
+  font-weight: bold;
+}
+
+#myTabContent {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background-color: white;
+}
+
+body {
+  overflow: hidden;
+}
+
+.table-con {
+  overflow: hidden;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #262626;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ddd;
+}
+
+.employe_ad_span {
+  font-size: 15px;
+  font-weight: bold;
+  color: #262626;
+  margin-top: 5px;
+}
+
+.input-group-prepend {
+  font-size: 13px !important;
+  font-weight: bold;
+}
+
+.input-group .input-group-text {
+  font-size: 13px !important;
+  font-weight: bold;
+}
+
+.select-text {
+  font-size: 13px !important;
+  padding: 3px !important;
+  width: 100%;
+}
+
+.sub {}
+
+.sub td {
+  width: 150px;
+  background-color: white;
+}
+
+.sub th {
+  width: 50px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/*----------------------xxx-----------------------*/
+/* KAMAL CSS---KAMAL CSS---KAMAL CSS---KAMAL CSS---KAMAL CSS---
+----------------\
+-IMPORTANT-------)
+----------------/
+Do not write your own code in between the KAMAL's code
+---------------------------------------------------------
+*/
+/*
+#inventory  tr,
+#inventory  th,
+#inventory  td{
+    border:1px solid #757575;
+    }
+*/
+/* Errors */
+.errors {
+  display: inline-block;
+  border: 2px solid red;
+  color: red;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.errors ul {
+  margin-bottom: 0;
+  padding-left: 1em;
+}
+
+/* Session Messages */
+#message {
+  color: #0B61A5;
+  background: white;
+  border: 2px solid #0B61A5;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+navigation ul {
+  border: 1px solid green;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+/* Pagination */
+.pagination {
+  margin: 1em 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination span {
+  margin: 0 5px;
+  padding: 0 12px;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: inset 0px 0px 10px #000;
+  border-radius: 10px;
+}
+
+.pagination span.selected {
+  font-weight: bold;
+  color: #000;
+  background-color: #baecba;
+  font-size: 24px;
+  border-radius: 20px;
+  box-shadow: inset 0px 0px 10px #000;
+  cursor: auto;
+}
+
+#for_captcha input[type='text'] {
+  border: 1px solid #bfbebe;
+}
+
+#for_captcha img.refresh_icon {
+  width: 26px;
+  background-color: #0a61a4;
+  margin-top: 5px;
+}
+
+/*loading spinner*/
+.spinner_div {
+  display: flex;
+  justify-content: center;
+}
+
+th.action_links {
+  text-align: center;
+}
+
+#errors {
+  display: inline-block;
+  border: 2px solid red;
+  color: red;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+/* KAMAL CSS---KAMAL CSS---KAMAL CSS---KAMAL CSS---KAMAL CSS--------ENDS------------ */
+
+
+/* header icon */
+ .header-icons ul{
+           
+         
+        display: flex;
+           margin: 0;
+           padding: 0;
+        
+        }
+        
+        .header-icons ul li{
+            list-style: none;
+                
+        }
+        .header-icons ul li a{
+            position: relative;
+            width: 32px;
+            text-decoration: none;
+            height: 32px;
+            background: #f1f1f1;
+            display: block;
+            text-align: center;
+            margin: 0 5px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+            padding: 3px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            background: linear-gradient(0deg, #ddd, #fff);
+            transition: .3s;
+            
+        }
+       .header-icons ul li a:hover{
+         box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+           
+        }
+        .header-icons ul li a .fa{
+            width: 100%;
+            height: 100%;
+            display: block;
+            background: #ff0;
+              background: linear-gradient(0deg, #fff, #ddd);
+            border-radius: 6px;
+            line-height: calc(27px - 1px);
+            font-size: 18px;
+            color: #262626;
+            transition: .5s;
+            
+        }
+        
+     
+        
+        .header-icons ul li:nth-child(1) a:hover .fa
+        {
+            color: #3b5998;
+        }
+        
+        .header-icons ul li:nth-child(2) a:hover .fa
+        {
+            color: #00aced;
+        }
+           
+       .contact_button_clickco ul{
+           
+         
+        display: flex;
+           margin: 0;
+           padding: 0;
+        
+        }
+        
+        .contact_button_clickco ul li{
+            list-style: none;
+                
+        }
+        .contact_button_clickco ul li a{
+            position: relative;
+            width: 40px;
+            text-decoration: none;
+            height: 40px;
+            background: #f1f1f1;
+            display: block;
+            text-align: center;
+            margin: 0 5px;
+            margin-bottom: 10px;
+            border-radius: 50%;
+            padding: 4px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            background: linear-gradient(0deg, #ddd, #fff);
+            transition: .3s;
+            
+        }
+       .contact_button_clickco ul li a:hover{
+         box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+           
+        }
+        .contact_button_clickco ul li a .fa{
+            width: 100%;
+            height: 100%;
+            display: block;
+            background: #ff0;
+              background: linear-gradient(0deg, #fff, #ddd);
+            border-radius: 50%;
+            line-height: calc(30px - 1px);
+            font-size: 18px;
+            color: #262626;
+            transition: .5s;
+            
+        }
+        
+     
+        
+        .contact_button_clickco ul li:nth-child(1) a:hover .fa
+        {
+            color: #3b5998;
+        }
+        
+        .contact_button_clickco ul li:nth-child(2) a:hover .fa
+        {
+            color: #00aced;
+        }
+    

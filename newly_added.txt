@@ -1,0 +1,8 @@
+1) Two new table (mysql) created
+	a. main_admin_login
+	b. sub_admins
+
+2) Two new class created
+	a. MainAdmin.class.php
+	b. SubAdmin.class.php
+

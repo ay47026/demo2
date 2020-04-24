@@ -1,0 +1,1792 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"show_loading"
+			],
+			[
+				"process",
+				"process_to_save_data"
+			],
+			[
+				"seti",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"set",
+				"setInterval\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"submit",
+				"submit_btn"
+			],
+			[
+				"stude",
+				"student_account_modal"
+			],
+			[
+				"login",
+				"login_btn"
+			],
+			[
+				"c",
+				"classes/"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"____",
+				"__FILE__"
+			],
+			[
+				"s",
+				"short_path"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"get_cl",
+				"get_called_class"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"previous_",
+				"previous_active_left_tab_divv"
+			],
+			[
+				"succ",
+				"success_d"
+			],
+			[
+				"suc",
+				"success_divv"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"St",
+				"StudentAllotmentDetails"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"photo",
+				"photo"
+			],
+			[
+				"si",
+				"signature"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"ph",
+				"photo_details"
+			],
+			[
+				"chil",
+				"children\t: HTMLCollection Document"
+			],
+			[
+				"cla",
+				"className\t: DOMString Element"
+			],
+			[
+				"create",
+				"create_img"
+			],
+			[
+				"remo",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"all",
+				"all_nav_link"
+			],
+			[
+				"appe",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"gree",
+				"green_image"
+			],
+			[
+				"creat",
+				"creat_img"
+			],
+			[
+				"get",
+				"getErrorMessage"
+			],
+			[
+				"check",
+				"checkNameAgain"
+			],
+			[
+				"this",
+				"this-"
+			],
+			[
+				"or",
+				"original_name"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"array_key",
+				"array_key_last"
+			],
+			[
+				"move",
+				"move_after"
+			],
+			[
+				"temp",
+				"temp_key"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"new",
+				"newName"
+			],
+			[
+				"set_",
+				"set_two_ajax_var"
+			],
+			[
+				"json",
+				"json.errors.length"
+			],
+			[
+				"defa",
+				"default_show"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"las",
+				"lastChild\t: Node Node"
+			],
+			[
+				"per",
+				"personal_details"
+			],
+			[
+				"bank",
+				"bank_draft_details"
+			],
+			[
+				"which",
+				"which_fee_detail"
+			],
+			[
+				"Co",
+				"CorrespondenceAddress"
+			],
+			[
+				"pincode",
+				"PincodePermanent"
+			],
+			[
+				"perman",
+				"PermanentAdd"
+			],
+			[
+				"corre",
+				"CorrespondenceAddress"
+			],
+			[
+				"student",
+				"StudentAdharNo"
+			],
+			[
+				"emai",
+				"student_email"
+			],
+			[
+				"allote",
+				"AllotedRollNo"
+			],
+			[
+				"Year",
+				"YearOfAdmission"
+			],
+			[
+				"fk",
+				"fk_id"
+			],
+			[
+				"nAM",
+				"NameOfIssuerBank"
+			],
+			[
+				"S",
+				"SerialNumberOfDD"
+			],
+			[
+				"A",
+				"AmountDepositedInRs"
+			],
+			[
+				"k",
+				"keys\t( o: Object ): string[] Object"
+			],
+			[
+				"en",
+				"entries"
+			],
+			[
+				"form",
+				"form_data_for_photo"
+			],
+			[
+				"fomr",
+				"form_data"
+			],
+			[
+				"remove",
+				"removeAttribute\t( name: DOMString ): void Element"
+			],
+			[
+				"right",
+				"right_tab"
+			],
+			[
+				"defaul",
+				"defaultView\t: WindowProxy Document"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"chce",
+				"checking"
+			],
+			[
+				"sudent",
+				"student_header.include.php"
+			],
+			[
+				"tue",
+				"true"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"Text",
+				"textContent\t: DOMString Node"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"fin",
+				"find_me"
+			],
+			[
+				"na",
+				"NameOfSchoolLastAttended"
+			],
+			[
+				"M",
+				"MarksObtained"
+			],
+			[
+				"Yea",
+				"YearOfPassing"
+			],
+			[
+				"Ma",
+				"MaximumMarks"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"gau",
+				"GaurdianPanNo"
+			],
+			[
+				"P",
+				"PermanentAndCorrespondingAddSame"
+			],
+			[
+				"ga",
+				"GaurdianOfficeAdd"
+			],
+			[
+				"Gau",
+				"GaurdianOccupation"
+			],
+			[
+				"hide",
+				"hide_errors"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"find",
+				"find_by_sql"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"ts",
+				"this-"
+			],
+			[
+				"count",
+				"count_half"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"Fi",
+				"FirstName"
+			],
+			[
+				"DIS",
+				"District"
+			],
+			[
+				"is_",
+				"is_blank"
+			],
+			[
+				"is",
+				"IsFill"
+			],
+			[
+				"pin",
+				"PincodePermanent"
+			],
+			[
+				"dis",
+				"DistrictPermanent"
+			],
+			[
+				"pe",
+				"PermanentAdd"
+			],
+			[
+				"perma",
+				"PermanentAndCorrespondingAddSame"
+			],
+			[
+				"date",
+				"DateOfBirth"
+			],
+			[
+				"response",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"rea",
+				"readyState\t XMLHttpRequest"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"All",
+				"AllotedRollNo"
+			],
+			[
+				"margin",
+				"marginBottom\t = 'initial' Style CSS"
+			],
+			[
+				"svg",
+				"svg_loader"
+			],
+			[
+				"sub",
+				"submit_btn"
+			],
+			[
+				"prnt",
+				"print_r"
+			],
+			[
+				"num",
+				"num_year"
+			],
+			[
+				"nu",
+				"num_year"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"co",
+				"combine"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 13050,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/student/includes/student_registration_form.inc.php",
+			"settings":
+			{
+				"buffer_size": 9895,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/student/nsa.php",
+			"settings":
+			{
+				"buffer_size": 29135,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "private/classes/Session.class.php",
+			"settings":
+			{
+				"buffer_size": 2384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/student/process/student_photo_details_process.php",
+			"settings":
+			{
+				"buffer_size": 1900,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/demo2",
+		"/var/www/html/demo2/private",
+		"/var/www/html/demo2/private/classes",
+		"/var/www/html/demo2/private/shared",
+		"/var/www/html/demo2/public",
+		"/var/www/html/demo2/public/acces_denied",
+		"/var/www/html/demo2/public/shared",
+		"/var/www/html/demo2/public/staff",
+		"/var/www/html/demo2/public/staff/main_admin",
+		"/var/www/html/demo2/public/staff/process",
+		"/var/www/html/demo2/public/student",
+		"/var/www/html/demo2/public/student/includes",
+		"/var/www/html/demo2/public/student/process",
+		"/var/www/html/demo2/public/stylesheets"
+	],
+	"file_history":
+	[
+		"/var/www/html/demo2/private/shared/staff_footer.php",
+		"/var/www/html/demo2/.htaccess",
+		"/var/www/html/demo2/public/index.original.php",
+		"/var/www/html/demo2/private/shared/public_header.php",
+		"/var/www/html/demo2/public/student/process/student_login_process.php",
+		"/var/www/html/demo2/public/student/process/student_registration_process.php",
+		"/var/www/html/demo2/public/staff/main_admin/md_login.php",
+		"/var/www/html/demo2/public/student/includes/student_registration_form.inc.php",
+		"/var/www/html/demo2/private/classes/Session.class.php",
+		"/var/www/html/demo2/private/status_error_functions.php",
+		"/var/www/html/demo2/private/database_functions.php",
+		"/var/www/html/demo2/private/initialize.php",
+		"/var/www/html/demo2/private/shared/public_footer.php",
+		"/var/www/html/demo2/private/db_credentials.php",
+		"/var/www/html/demo2/private/functions.php",
+		"/var/www/html/demo2/private/classes/Logger.class.php",
+		"/var/www/html/demo2/private/classes/GetExecutionTime.class.php",
+		"/var/www/html/demo2/public/student/nsa.php",
+		"/var/www/html/demo2/public/student/includes/personal_details.php",
+		"/var/www/html/demo2/public/student/includes/allotement_details.php",
+		"/var/www/html/demo2/public/student/process/student_access_process.php",
+		"/var/www/html/demo2/public/student/process/student_gaurdian_details_process.php",
+		"/var/www/html/demo2/public/student/process/student_last_education_details_process.php",
+		"/var/www/html/demo2/public/student/process/student_personal_details_process.php",
+		"/var/www/html/demo2/public/student/process/student_photo_details_process.php",
+		"/var/www/html/demo2/public/student/process/student_bank_draft_bank_details_process.php",
+		"/var/www/html/demo2/public/student/process/student_allotement_details_process.php",
+		"/var/www/html/demo2/private/shared/student_header.include.php",
+		"/var/www/html/demo2/private/classes/DatabaseObject.class.php",
+		"/var/www/html/demo2/private/classes/StudentPhotoDetails.class.php",
+		"/var/www/html/demo2/private/classes/StudentPhotoDetails_original.class.php",
+		"/var/www/html/demo2/private/classes/StudentGaurdianDetails.class.php",
+		"/var/www/html/demo2/public/student/includes/gaurdian_details.php",
+		"/var/www/html/demo2/private/classes/StudentAnyOtherDetails.class.php",
+		"/var/www/html/demo2/public/student/includes/photo_sign.php",
+		"/var/www/html/demo2/public/student/includes/last_education_details.php",
+		"/var/www/html/demo2/private/classes/CheckAllStudentDetail.class.php",
+		"/var/www/html/demo2/public/student/includes/fee_details.php",
+		"/var/www/html/demo2/private/classes/StudentEducationDetails.class.php",
+		"/var/www/html/demo2/private/classes/StudentPersonalDetails.class.php",
+		"/var/www/html/demo2/private/classes/StudentAllotmentDetails.class.php",
+		"/var/www/html/demo2/private/classes/StudentFeeDetails.class.php",
+		"/var/www/html/demo2/private/classes/StudentBankDraftDetails.class.php",
+		"/var/www/html/demo2/private/classes/MainAdmin.class.php",
+		"/var/www/html/demo2/private/classes/StudentSBIeCollectDetails.class.php",
+		"/var/www/html/demo2/private/classes/StudentOnlineTransactionDetails.class.php",
+		"/var/www/html/demo2/public/index.php",
+		"/var/www/html/demo2/public/student/includes/final_submit.php",
+		"/var/www/html/demo2/public/campus_yadav_ne_diya_tha/nsa.php",
+		"/var/www/html/demo2/public/staff/process/get_all_subadmins.php",
+		"/var/www/html/demo2/private/shared/public_header_02.php",
+		"/var/www/html/demo2/private/shared/student_header.php",
+		"/var/www/html/demo2/private/classes/StudentFinalSubmit.class.php",
+		"/var/www/html/demo2/public/student/process/student_final_submit_process.php",
+		"/var/www/html/demo2/private/classes/StudentLogin.class.php",
+		"/var/www/html/demo2/private/validation_functions.php",
+		"/var/www/html/demo2/private/classes/SubAdmin.class.php",
+		"/var/www/html/demo2/private/classes/StudentAllotementDetails.class.php",
+		"/var/www/html/demo2/public/staff/main_admin/index.php",
+		"/var/www/html/demo2/private/classes/StudentRegistration.class.php",
+		"/var/www/html/demo2/public/shared/captcha.php",
+		"/var/www/html/demo2/public/student/logout.php",
+		"/var/www/html/demo2/public/stylesheets/style.css",
+		"/var/www/html/demo2/private/shared/staff_header_02.php",
+		"/var/www/html/demo2/private/shared/public_copyright_disclaimer.php",
+		"/var/www/html/demo1/private/shared/public_header_02.php",
+		"/var/www/html/demo1/private/shared/staff_header.php",
+		"/var/www/html/demo1/private/shared/staff_header_02.php",
+		"/var/www/html/demo1/public/shared/captcha.php",
+		"/var/www/html/demo1/public/staff/main_admin/md_login.php",
+		"/var/www/html/demo1/private/classes/MainAdmin.class.php",
+		"/var/www/html/demo1/private/log/activity.log",
+		"/var/www/html/demo1/public/staff/main_admin/index.php",
+		"/var/www/html/demo1/private/classes/DatabaseObject.class.php",
+		"/var/www/html/demo1/private/classes/Captcha.class.php",
+		"/var/www/html/demo1/private/classes/SubAdmin.class.php",
+		"/var/www/html/demo1/public/staff/process/get_all_subadmins.php",
+		"/var/www/html/demo/private/classes/SubAdmin.class.php",
+		"/var/www/html/demo/private/shared/staff_header_02.php",
+		"/var/www/html/demo/private/shared/public_footer.php",
+		"/var/www/html/demo/public/shared/captcha.php",
+		"/var/www/html/demo/private/classes/Captcha.class.php",
+		"/var/www/html/demo/public/staff/process/get_all_subadmins.php",
+		"/var/www/html/demo/private/shared/public_copyright_disclaimer.php",
+		"/var/www/html/demo/private/initialize.php",
+		"/var/www/html/demo/private/functions.php",
+		"/var/www/html/demo/public/staff/main_admin/index.php",
+		"/var/www/html/demo/private/status_error_functions.php",
+		"/var/www/html/demo/private/classes/Pagination.class.php",
+		"/var/www/html/demo/private/log/activity.log",
+		"/var/www/html/demo/private/classes/Session.class.php",
+		"/var/www/html/demo/public/stylesheets/style.css",
+		"/var/www/html/demo/private/classes/DatabaseObject.class.php",
+		"/var/www/html/demo/private/classes/MainAdmin.class.php",
+		"/var/www/html/demo/public/staff/main_admin/md_login.php",
+		"/var/www/html/demo/private/classes/Logger.class.php",
+		"/var/www/html/demo/public/staff_OLD/admin/process/get_all_employees.php",
+		"/var/www/html/demo/public/staff/process/get_all_students.php",
+		"/var/www/html/demo/private/shared/staff_header.php",
+		"/var/www/html/demo/private/validation_functions.php",
+		"/var/www/html/demo/public/staff/main_admin/logout.php",
+		"/var/www/html/demo/employee.sql",
+		"/var/www/html/demo/newly_added.txt",
+		"/media/abhishek/fb0fde6e-df1b-499a-a022-2f56781b5bdd/LYNDA.com🏅/Software learning  -- [ Lynda.com ]/Learning Sublime Text 3/EX/roux_website/_scripts/SpryTabbedPanels.js",
+		"/media/abhishek/fb0fde6e-df1b-499a-a022-2f56781b5bdd/LYNDA.com🏅/Software learning  -- [ Lynda.com ]/Learning Sublime Text 3/EX/roux_website/index.htm",
+		"/media/abhishek/fb0fde6e-df1b-499a-a022-2f56781b5bdd/LYNDA.com🏅/Software learning  -- [ Lynda.com ]/Learning Sublime Text 3/EX/roux_website/_scripts/SpryTabbedPanels.css",
+		"/home/abhishek/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/abhishek/.config/sublime-text-3/Packages/PHP Completions Kit/README.md",
+		"/home/abhishek/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 63.0
+	},
+	"find_in_files":
+	{
+		"height": 181.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"oReq",
+			"button",
+			"console",
+			"request_in_progess",
+			"action",
+			"console.log",
+			"original_btn_value",
+			"submit_btn",
+			"student_reg_login",
+			"reg_btn",
+			"new stude",
+			"modal-content",
+			"modal-dialog",
+			"original_btn_value",
+			"hide_err",
+			"student_account_modal",
+			"error",
+			"form",
+			"button",
+			"login",
+			"logn",
+			"login",
+			"submit",
+			"button",
+			"submit_btn",
+			"center",
+			"User",
+			"login_btn",
+			"string",
+			"id=\"account\"",
+			"<!--",
+			"id=\"account\"",
+			"log_msg",
+			"$log_msg",
+			"ui-icons_444444_256x240.png",
+			"photo",
+			"print",
+			"DistrictParmanent",
+			"console.log",
+			"console.log(e);",
+			"console.log(e)",
+			"console.log",
+			"console",
+			", 'table_name' => $table_name",
+			"exit",
+			"print_r",
+			"--------------------------------------",
+			"print_r",
+			"no file",
+			"no",
+			"upload",
+			"uploaf",
+			"print_r",
+			"$file",
+			"file",
+			"messages",
+			"uploaded",
+			"renameDuplicates",
+			"final_submit",
+			"console.log(json_table_name,default_show);",
+			"            console.log(json_table_name,default_show);",
+			"save()",
+			"static",
+			"parent",
+			"renameDuplicates",
+			"newName",
+			"maxSize",
+			"upload()",
+			"upload",
+			"json_table_name",
+			"table_name",
+			"json_table_name",
+			"filename",
+			"SIGN",
+			"filename",
+			"roll",
+			"AmountDepositedInRs",
+			"case 'LastEducationDetails':\n                if($boolean == 1){\n                    // get previous data from table.\n                    $fk_id = $session->get_id();\n                    $education_details = StudentEducationDetails::find_by_attribute($set = ['attribute' => 'fk_id', 'id' => $fk_id]);\n                    // print_r($personal_details);\n                    // echo '<br>';\n                }else{\n                    $education_details = new StudentEducationDetails;\n                }\n                # code...\n                break;",
+			"first_name",
+			"type='text'",
+			"text",
+			"allotment_details",
+			"case 'AllotmentDetails':\n                if($boolean == 1){\n                    // get previous data from table.\n                    $fk_id = $session->get_id();\n                    $allotment_details = StudentAllotmentDetails::find_by_attribute($set = ['attribute' => 'fk_id', 'id' => $fk_id]);\n                    // print_r($allotment_details);\n                    // echo '<br>';\n                }else{\n                    $allotment_details = new StudentAllotmentDetails;\n                }\n                # code...\n                break;",
+			"bank_draft",
+			"job_profile",
+			"job_profiles",
+			"job_profile",
+			"job_profiles",
+			"job_profile",
+			"alloted_branch",
+			"job_profiles",
+			"job_profile",
+			"job_profiles",
+			"NameOf",
+			"Date",
+			"->$",
+			"<input type=\"date\"",
+			"date",
+			"                ",
+			"student_full_detail_btn",
+			"save",
+			"button",
+			"data-src",
+			"submit_btn",
+			"subadmin",
+			"SubAdmin",
+			"subadmin",
+			"any_other",
+			"save",
+			"button",
+			"form",
+			"'fk_id',",
+			"case 'gaurdian_details':\n                form_details = document.getElementById(\"gaurdian_details\");\n                error_div = document.getElementById(\"errors_for_gaurdian_details\");\n                url = './process/student_gaurdian_details_process.php';\n                success_alert = 'Gaurdian details added succesfully';\n                break;\n\n            case 'last_education_details':\n                form_details = document.getElementById(\"last_education_details\");\n                error_div = document.getElementById(\"errors_for_education_details\");\n                url = './process/student_last_education_details_process.php';\n                success_alert = 'Education details added succesfully';\n                break;\n\n                default:\n                // statements_def\n                break;",
+			"echo",
+			"data-toggle=\"pill\"",
+			"tale",
+			"ta",
+			"nav-link",
+			"data-toggle=\"pill\"",
+			";\n",
+			"education_details",
+			"passing_year",
+			"MarksObtained",
+			");\n",
+			"fk_id",
+			"type",
+			"types",
+			"allo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13050,
+						"regions":
+						{
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										992,
+										997
+									],
+									[
+										1365,
+										1370
+									],
+									[
+										1725,
+										1730
+									],
+									[
+										2471,
+										2476
+									],
+									[
+										2581,
+										2586
+									],
+									[
+										3166,
+										3171
+									],
+									[
+										3276,
+										3281
+									],
+									[
+										3860,
+										3865
+									],
+									[
+										3970,
+										3975
+									],
+									[
+										4532,
+										4537
+									],
+									[
+										4642,
+										4647
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										952,
+										952
+									],
+									[
+										1325,
+										1325
+									],
+									[
+										1685,
+										1685
+									],
+									[
+										2431,
+										2431
+									],
+									[
+										2541,
+										2541
+									],
+									[
+										3126,
+										3126
+									],
+									[
+										3236,
+										3236
+									],
+									[
+										3820,
+										3820
+									],
+									[
+										3930,
+										3930
+									],
+									[
+										4492,
+										4492
+									],
+									[
+										4602,
+										4602
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1F4A2DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										501,
+										508
+									],
+									[
+										2047,
+										2054
+									]
+								],
+								"scope": "col_1F4A2DFF"
+							},
+							"col_1F4A2DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1F4A2DFF_circle.png",
+								"regions":
+								[
+									[
+										466,
+										466
+									],
+									[
+										2012,
+										2012
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1F4A4DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										455,
+										462
+									],
+									[
+										2001,
+										2008
+									],
+									[
+										9419,
+										9426
+									]
+								],
+								"scope": "col_1F4A4DFF"
+							},
+							"col_1F4A4DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1F4A4DFF_circle.png",
+								"regions":
+								[
+									[
+										332,
+										332
+									],
+									[
+										1878,
+										1878
+									],
+									[
+										9377,
+										9377
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8A8A8AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										9098,
+										9105
+									]
+								],
+								"scope": "col_8A8A8AFF"
+							},
+							"col_8A8A8AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8A8A8AFF_circle.png",
+								"regions":
+								[
+									[
+										9056,
+										9056
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										233,
+										238
+									],
+									[
+										8279,
+										8283
+									],
+									[
+										8316,
+										8320
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										177,
+										177
+									],
+									[
+										8216,
+										8216
+									],
+									[
+										8286,
+										8286
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								11330,
+								11330
+							]
+						],
+						"settings":
+						{
+							"SL.44.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4973.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/student/includes/student_registration_form.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9895,
+						"regions":
+						{
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8859,
+										8864
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										8743,
+										8743
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1F4A4DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										915,
+										922
+									],
+									[
+										940,
+										947
+									],
+									[
+										5970,
+										5977
+									],
+									[
+										6186,
+										6193
+									],
+									[
+										8523,
+										8530
+									],
+									[
+										8665,
+										8672
+									]
+								],
+								"scope": "col_1F4A4DFF"
+							},
+							"col_1F4A4DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1F4A4DFF_circle.png",
+								"regions":
+								[
+									[
+										839,
+										839
+									],
+									[
+										5813,
+										5813
+									],
+									[
+										6013,
+										6013
+									],
+									[
+										8376,
+										8376
+									],
+									[
+										8550,
+										8550
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6200,
+										6205
+									],
+									[
+										8537,
+										8542
+									],
+									[
+										8679,
+										8684
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										6013,
+										6013
+									],
+									[
+										8376,
+										8376
+									],
+									[
+										8550,
+										8550
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"SL.114.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/student/nsa.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29135,
+						"regions":
+						{
+							"col_0000FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28027,
+										28034
+									],
+									[
+										28087,
+										28094
+									]
+								],
+								"scope": "col_0000FFFF"
+							},
+							"col_0000FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000FFFF_circle.png",
+								"regions":
+								[
+									[
+										27978,
+										27978
+									],
+									[
+										28038,
+										28038
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_008000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										10068,
+										10073
+									]
+								],
+								"scope": "col_008000FF"
+							},
+							"col_008000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"regions":
+								[
+									[
+										10025,
+										10025
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1F4A2DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4191,
+										4198
+									]
+								],
+								"scope": "col_1F4A2DFF"
+							},
+							"col_1F4A2DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1F4A2DFF_circle.png",
+								"regions":
+								[
+									[
+										4173,
+										4173
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1F4A4DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4480,
+										4487
+									],
+									[
+										22606,
+										22613
+									]
+								],
+								"scope": "col_1F4A4DFF"
+							},
+							"col_1F4A4DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1F4A4DFF_circle.png",
+								"regions":
+								[
+									[
+										4448,
+										4448
+									],
+									[
+										22564,
+										22564
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C3C3AEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										22327,
+										22334
+									]
+								],
+								"scope": "col_C3C3AEFF"
+							},
+							"col_C3C3AEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C3C3AEFF_circle.png",
+								"regions":
+								[
+									[
+										22285,
+										22285
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F5F5F5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4146,
+										4156
+									],
+									[
+										4414,
+										4424
+									]
+								],
+								"scope": "col_F5F5F5FF"
+							},
+							"col_F5F5F5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F5F5F5FF_circle.png",
+								"regions":
+								[
+									[
+										4044,
+										4044
+									],
+									[
+										4351,
+										4351
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF8989F7":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27684,
+										27693
+									]
+								],
+								"scope": "col_FF8989F7"
+							},
+							"col_FF8989F7_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF8989F7_circle.png",
+								"regions":
+								[
+									[
+										27634,
+										27634
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										21508,
+										21512
+									],
+									[
+										21545,
+										21549
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										21445,
+										21445
+									],
+									[
+										21515,
+										21515
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								24609,
+								24609
+							]
+						],
+						"settings":
+						{
+							"SL.89.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11253.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "private/classes/Session.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 721.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/student/process/student_photo_details_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 63.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 147.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aith_erp.sublime-project",
+	"replace":
+	{
+		"height": 122.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nsa",
+				"public/student/nsa.php"
+			],
+			[
+				"all",
+				"public/student/process/student_allotement_details_process.php"
+			],
+			[
+				"sess",
+				"private/classes/Session.class.php"
+			],
+			[
+				"student_hea",
+				"private/shared/student_header.include.php"
+			],
+			[
+				"INI",
+				"private/initialize.php"
+			],
+			[
+				"publi",
+				"private/shared/public_header.php"
+			],
+			[
+				"da",
+				"private/classes/DatabaseObject.class.php"
+			],
+			[
+				"data",
+				"private/classes/DatabaseObject.class.php"
+			],
+			[
+				"stu",
+				"private/classes/StudentAnyOtherDetails.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
